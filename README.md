@@ -4,7 +4,7 @@ We've created this repository to make use of the [Issues tracker](https://github
 
 Do you have ideas or requests on how to use or improve USAID's APIs or the data we've opened at [usaid.gov/data](http://www.usaid.gov/data)? Do you have suggestions on how we can use this space?
 
-[Please leave a comment and let us know!](https://github.com/USAID/Feedback/issues)
+[Please, open an issue to leave a comment (or an issue) and let us know!](https://github.com/USAID/Feedback/issues)
 
 #### Related links
 
@@ -16,3 +16,6 @@ A growing list of success stories and examples of data stories, visualizations, 
 
 http://www.usaid.gov/opendata <br>
 General success stories, use cases, and events around on our work on opening more data within the agency.
+
+http://www.usaid.gov/data/frequently-asked-questions <br>
+Questions and answers concerning USAID policy [ADS 579](http://www.usaid.gov/ads/policy/500/579) on managing data.  These Q&As are directed at both internal and external audiences.
