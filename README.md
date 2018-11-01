@@ -1,6 +1,6 @@
 ### Feedback
 
-We've created this repository to make use of the [Issues tracker](https://github.com/USAID/Feedback/issues) to solicit your feedback on the products or services offered by the USAID Data Services team.  [Please feel free to report your technical issues here] (https://github.com/USAID/Feedback/issues).
+We've created this repository to make use of the [Issues Tracker](https://github.com/USAID/Feedback/issues) to solicit your feedback on the products or services offered by the USAID Data Services team.  [Please feel free to report your technical issues here(https://github.com/USAID/Feedback/issues).
 
 To engage with the broader community on USAID data-related issues, please consider visiting [StackExchange] (https://opendata.stackexchange.com/questions/tagged/usaidopen). 
 
