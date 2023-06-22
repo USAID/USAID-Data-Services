@@ -6,8 +6,8 @@ To engage with the broader community on USAID data-related issues, please consid
 
 #### Related links
 
-https://www.usaid.gov/data <br>
-USAID's official public data listing, a mix of data exports and larger data portals of data we've made open and accessible from within the agency. It's also available [in a machine-readable format](http://www.usaid.gov/data.json) which also feeds into [data.gov](http://data.gov).
+https://www.data.usaid.gov <br>
+The Development Data Library, USAID's official public data listing, a mix of data exports and larger data portals of data we've made open and accessible from within the agency. It's also available [in a machine-readable format](https://data.usaid.gov/data.json) which also feeds into [data.gov](http://data.gov).
 
-http://www.usaid.gov/data/frequently-asked-questions <br>
+https://data.usaid.gov/stories/s/7nq9-vptc <br>
 Questions and answers concerning USAID policy [ADS 579](http://www.usaid.gov/ads/policy/500/579) on managing data.  These Q&As are directed at both internal and external audiences.
